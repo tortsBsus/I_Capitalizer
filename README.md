@@ -7,11 +7,11 @@
               3. in cases like "he is going.i am not" 
               4. in cases like "she is going. i am not"
               
-**Need **
+**Need**
 
           Google docs doesn't capitalize the i and every i in the document needs to be approved for change
 
-**How to use **
+**How to use**
 
              paste the input text in the input.txt file
              build and run the code

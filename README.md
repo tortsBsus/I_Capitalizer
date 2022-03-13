@@ -1,8 +1,8 @@
 # I_Capitalizer
 **Function** 
 
-          Capitalizes the I at
-              1. The beginning of a sentence
+          Capitalizes the I
+              1. at the beginning of a sentence
               2. in cases like "i am", "i was" and "i will"
               3. in cases like "he is going.i am not" 
               4. in cases like "she is going. i am not"
